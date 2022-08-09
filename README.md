@@ -33,6 +33,11 @@ just some experiment notebooks for pydap
     pip install jupyterlab
     git clone git@github.com:NiklasPhabian/pydap_notebooks.git
 
+NB: I could not get the above clone to work, but
+
+	git clone https://github.com/NiklasPhabian/pydap_notebooks.git
+
+did work. jhrg 8/9/22
 
 Note; edit the user.config 
 
