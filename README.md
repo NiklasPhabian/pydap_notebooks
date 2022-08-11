@@ -66,3 +66,6 @@ Clic on the pydap\_notebooks directory and run the pydap\_demo notebook.
     pip3 install jupyterlab
 	git clone https://github.com/NiklasPhabian/pydap_notebooks.git
 
+Now, goto _To get NASA Cloud URLs to work_ to set up NASA Earthdata
+login credentials and run the demo notebook.
+
