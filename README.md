@@ -47,7 +47,7 @@ the pydap-demo directory
 
     jupyter-lab
 
-Clic on the pydap\_notebooks directory and run the pydap\_demo notebook.
+Click on the pydap\_notebooks directory and run the pydap\_demo notebook.
 
 ## Using venv and pip3
 
